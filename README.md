@@ -15,6 +15,13 @@ registered on this platform
     <br /> -->
     <br />
     <a href="https://store-rating-app.vercel.app/">View Demo</a>
+     <a href="https://store-rating-app.vercel.app/">Admin:
+admin@a.com
+Admin@123
+
+Store:
+storeowner@a.com
+Store@123</a>
     <!-- ·
     <a href="https://github.com/github_username/repo_name/issues/new?labels=bug&template=bug-report---.md">Report Bug</a>
     ·
