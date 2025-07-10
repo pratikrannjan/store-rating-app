@@ -15,7 +15,7 @@ registered on this platform
     <br /> -->
     <br />
     <a href="https://store-rating-app.vercel.app/">View Demo</a>
-     <a href="https://store-rating-app.vercel.app/">Admin:
+     <a href="https://store-rating-app.vercel.app/">Admin deatails:
 admin@a.com
 Admin@123
 
