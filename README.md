@@ -16,13 +16,13 @@ registered on this platform
     <br />
     <a href="https://store-rating-app.vercel.app/">View Demo</a>
     <div>
-    <a href="https://store-rating-app.vercel.app/">Admin mail: admin@a.com </a>a>
+    <a href="https://store-rating-app.vercel.app/">Admin mail: admin@a.com </a>
     <a href="https://store-rating-app.vercel.app/">Admin password: Admin@123</a>
     <a href="https://store-rating-app.vercel.app/">user mail: storeowner@a.com </a>
     <a href="https://store-rating-app.vercel.app/">user password: Store@123 </a>
     
     
-    <!-- ·
+    <!-- 
     <a href="https://github.com/github_username/repo_name/issues/new?labels=bug&template=bug-report---.md">Report Bug</a>
     ·
     <a href="https://github.com/github_username/repo_name/issues/new?labels=enhancement&template=feature-request---.md">Request Feature</a> -->
